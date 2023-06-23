@@ -6,7 +6,7 @@ import { useRef } from "react"
 import { signIn} from "next-auth/react"
 
 type HomeProps = {
-    // TODO create type for products response
+    // TODO create type for products responses
     products: any;
 }
 
